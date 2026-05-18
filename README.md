@@ -199,8 +199,8 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 
 ### New Sample Data Prediction
 <img width="449" height="85" alt="image" src="https://github.com/user-attachments/assets/a5ec0371-d933-4e0b-9178-c97e5dc5e82b" />
-##RESULT
-Neural network classification model for the given dataset is successfully developed.
+
 
 ## RESULT
-Include your result here
+
+Neural network classification model for the given dataset is successfully developed.
